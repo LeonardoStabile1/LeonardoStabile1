@@ -1,7 +1,7 @@
 # Leonardo Pereira Stabile
 
 Sou físico pela UNICAMP com sólida formação em matemática aplicada, estatística e computação científica. Tenho experiência no desenvolvimento de cálculos numéricos e análise de dados utilizando Python, Modern Fortran e Wolfram Mathematica.
-Atualmente, busco oportunidades como Cientista de Dados, Analista Quantitativo ou Analista Financeiro, onde habilidades em simulação, análise estatística e desenvolvimento computacional sejam centrais.
+Atualmente, busco oportunidades como Cientista de Dados, Analista de Dados ou Analista Financeiro, onde habilidades em simulação, análise estatística e desenvolvimento computacional sejam centrais.
 
 ## Ferramentas
 
