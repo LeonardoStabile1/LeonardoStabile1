@@ -10,9 +10,7 @@ Atualmente, busco oportunidades como Cientista de Dados, Analista Quantitativo o
          width="30">
   </a>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631"
-    alt="Gmail"
-    width="35"> &nbsp;&nbsp; leonpstabile@gmail.com
+ Email: leonpstabile@gmail.com
 </p>
 
 
