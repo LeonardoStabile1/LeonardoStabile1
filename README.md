@@ -62,5 +62,21 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-o
 
 # Veja abaixo meus projetos
 
-
+<div align="center">
+  <div style="display: inline-block; border: 2px solid #0A66C2; border-radius: 15px; overflow: hidden;">
+    <table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="300px" align="center" valign="middle" style="padding: 20px; border-right: 1px solid #0A66C2;">
+          <a href="https://github.com/LeonardoStabile1/Projeto-Analise-e-Predicao-de-Risco-de-Credito" style="text-decoration: none;">
+            <h3 style="color: #0A66C2;">Análise e Predição de Risco de Crédito</h3>
+          </a>
+          <p><b>Stack:</b> Python, Pandas, Scikit-Learn</p>
+        </td>
+        <td width="400px" align="left" valign="middle" style="padding: 20px;">
+          A partir de um dataset com desbalanceamento na flag de risco, conduzi uma análise exploratória (EDA) robusta e avaliei múltiplos modelos de Machine Learning para prever o risco de crédito com precisão.
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
 
