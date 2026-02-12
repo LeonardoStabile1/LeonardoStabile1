@@ -89,7 +89,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-o
         <td width="300px" align="center" valign="middle" style="padding: 20px; border-right: 1px solid #0A66C2;">
             <h3 style="color: #0A66C2;">Análise de Performance de Vendas</h3>
           <p><b>Stack:</b> Python: Pandas, MySQL e Power BI</p>
-          <a href="https://github.com/LeonardoStabile1/Projeto-Analise-e-Predicao-de-Risco-de-Credito](https://github.com/LeonardoStabile1/Analise-Exploratoria-de-Vendas">
+          <a href="https://github.com/LeonardoStabile1/Analise-Exploratoria-de-Vendas">
           <p>Clique aqui para ver o projeto</p>
         </a>
         </td>
