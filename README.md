@@ -81,3 +81,23 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-o
   </div>
 </div>
 
+
+<div align="center">
+  <div style="display: inline-block; border: 2px solid #0A66C2; border-radius: 15px; overflow: hidden;">
+    <table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="300px" align="center" valign="middle" style="padding: 20px; border-right: 1px solid #0A66C2;">
+            <h3 style="color: #0A66C2;">Análise de Performance de Vendas</h3>
+          <p><b>Stack:</b> Python: Pandas, MySQL e Power BI</p>
+          <a href="https://github.com/LeonardoStabile1/Projeto-Analise-e-Predicao-de-Risco-de-Credito](https://github.com/LeonardoStabile1/Analise-Exploratoria-de-Vendas">
+          <p>Clique aqui para ver o projeto</p>
+        </a>
+        </td>
+        <td width="400px" align="left" valign="middle" style="padding: 20px;">
+          <b>Descrição: </b>Análise end-to-end de performance de vendas com foco na identificação de fatores que impactam a margem operacional, utilizando ETL em Python, modelagem relacional em MySQL e visualização estratégica no Power BI.
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
