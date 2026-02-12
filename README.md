@@ -74,7 +74,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-o
         </a>
         </td>
         <td width="400px" align="left" valign="middle" style="padding: 20px;">
-          A partir de um dataset com desbalanceamento na flag de risco, conduzi uma análise exploratória (EDA) robusta e avaliei múltiplos modelos de Machine Learning para prever o risco de crédito com precisão.
+          <b>Descrição: </b>A partir de um dataset com desbalanceamento na flag de risco, conduzi uma análise exploratória (EDA) robusta e avaliei múltiplos modelos de Machine Learning para prever o risco de crédito com precisão.
         </td>
       </tr>
     </table>
