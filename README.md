@@ -19,7 +19,7 @@ Atualmente, busco oportunidades como Cientista de Dados, Analista Quantitativo o
 
 <img align="left"
 alt="HTML"
-title="HTML"
+title="Python"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
@@ -68,7 +68,18 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-o
       <tr>
         <td width="300px" align="center" valign="middle" style="padding: 20px; border-right: 1px solid #0A66C2;">
             <h3 style="color: #0A66C2;">Análise de Risco de Churn(Evasão)</h3>
-          <p><b>Stack:</b> Python (Pandas) e Power BI</p>
+          <p><b>Stack:</b>  Python (Pandas) e Power BI</p>
+          <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+       alt="Python" 
+       title="Python" 
+       width="40px" 
+       style="margin-right: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
+       alt="Power BI" 
+       title="Power BI" 
+       width="40px"/>
+            </div>
           <a href="https://github.com/LeonardoStabile1/Analise-de-risco-de-Churn">
           <p>Clique aqui para ver o projeto</p>
         </a>
@@ -88,6 +99,23 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-o
         <td width="300px" align="center" valign="middle" style="padding: 20px; border-right: 1px solid #0A66C2;">
             <h3 style="color: #0A66C2;">Análise de Performance de Vendas</h3>
           <p><b>Stack:</b> Python: Pandas, MySQL e Power BI</p>
+          <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+       alt="Python" 
+       title="Python" 
+       width="40px" 
+       style="margin-right: 10px;"/> <img alt="SQL"
+title="SQL"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
+       alt="Power BI" 
+       title="Power BI" 
+       width="40px"/>
+        
+</div>
           <a href="https://github.com/LeonardoStabile1/Analise-Exploratoria-de-Vendas">
           <p>Clique aqui para ver o projeto</p>
         </a>
@@ -108,6 +136,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-o
         <td width="300px" align="center" valign="middle" style="padding: 20px; border-right: 1px solid #0A66C2;">
             <h3 style="color: #0A66C2;">Análise e Predição de Risco de Crédito</h3>
           <p><b>Stack:</b> Python, Pandas, Scikit-Learn</p>
+                    <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+       alt="Python" 
+       title="Python" 
+       width="40px" 
+       style="margin-right: 10px;"/>
+</div>
           <a href="https://github.com/LeonardoStabile1/Projeto-Analise-e-Predicao-de-Risco-de-Credito">
           <p>Clique aqui para ver o projeto</p>
         </a>
