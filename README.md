@@ -67,20 +67,19 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-o
     <table border="0" cellspacing="0" cellpadding="0">
       <tr>
         <td width="300px" align="center" valign="middle" style="padding: 20px; border-right: 1px solid #0A66C2;">
-            <h3 style="color: #0A66C2;">Análise e Predição de Risco de Crédito</h3>
-          <p><b>Stack:</b> Python, Pandas, Scikit-Learn</p>
-          <a href="https://github.com/LeonardoStabile1/Projeto-Analise-e-Predicao-de-Risco-de-Credito">
+            <h3 style="color: #0A66C2;">Análise de Risco de Churn(Evasão)</h3>
+          <p><b>Stack:</b> Python (Pandas) e Power BI</p>
+          <a href="https://github.com/LeonardoStabile1/Analise-de-risco-de-Churn">
           <p>Clique aqui para ver o projeto</p>
         </a>
         </td>
         <td width="400px" align="left" valign="middle" style="padding: 20px;">
-          <b>Descrição: </b>A partir de um dataset com desbalanceamento na flag de risco, conduzi uma análise exploratória (EDA) robusta e avaliei múltiplos modelos de Machine Learning para prever o risco de crédito com precisão.
+          <b>Descrição: </b>Diagnóstico completo da evasão de clientes através de análise exploratória e modelagem de risco em Python. Entrega insights acionáveis via dashboard em Power BI para mitigar o churn e aumentar o Lifetime Value (LTV).
         </td>
       </tr>
     </table>
   </div>
 </div>
-
 
 <div align="center">
   <div style="display: inline-block; border: 2px solid #0A66C2; border-radius: 15px; overflow: hidden;">
@@ -100,4 +99,26 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-o
     </table>
   </div>
 </div>
+
+
+<div align="center">
+  <div style="display: inline-block; border: 2px solid #0A66C2; border-radius: 15px; overflow: hidden;">
+    <table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="300px" align="center" valign="middle" style="padding: 20px; border-right: 1px solid #0A66C2;">
+            <h3 style="color: #0A66C2;">Análise e Predição de Risco de Crédito</h3>
+          <p><b>Stack:</b> Python, Pandas, Scikit-Learn</p>
+          <a href="https://github.com/LeonardoStabile1/Projeto-Analise-e-Predicao-de-Risco-de-Credito">
+          <p>Clique aqui para ver o projeto</p>
+        </a>
+        </td>
+        <td width="400px" align="left" valign="middle" style="padding: 20px;">
+          <b>Descrição: </b>A partir de um dataset com desbalanceamento na flag de risco, conduzi uma análise exploratória (EDA) robusta e avaliei múltiplos modelos de Machine Learning para prever o risco de crédito com precisão.
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+
 
