@@ -10,8 +10,6 @@ Atualmente, busco oportunidades como Analista de Dados, Cientista de Dados ou An
          alt="LinkedIn"
          width="30">
   </a>
-  &nbsp;&nbsp;
- Email: leonpstabile@gmail.com
 </p>
 
 
