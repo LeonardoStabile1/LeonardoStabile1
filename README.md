@@ -22,7 +22,7 @@ title="Python"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/> **`Python`**: Pandas, Matplotlib, Seaborn, ScikitLearn, Tensorflow, Statsmodels e Numpy
+/> **`Python`**: Pandas, Matplotlib, Seaborn, ScikitLearn, Statsmodels e Numpy
 
 <img align="left"
 alt="SQL"
