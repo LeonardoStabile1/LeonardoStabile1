@@ -12,6 +12,17 @@ Atualmente, busco oportunidades como Analista de Dados, Cientista de Dados ou An
   </a>
 </p>
 
+<div align="center">
+  <div style="border:2px solid #0A66C2; border-radius:15px; padding:25px; width:350px;">
+    <h3>
+      <a href="https://leonardostabile1.github.io/myPortifolio/" 
+         style="text-decoration:none; color:#0A66C2;">
+        Ver Meu Portfólio (English)
+      </a>
+    </h3>
+  </div>
+</div>
+
 
 
 ## Ferramentas
