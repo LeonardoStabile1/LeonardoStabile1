@@ -2,7 +2,7 @@
 
 Sou físico pela UNICAMP, com sólida base em matemática aplicada, estatística e computação científica, e experiência prática no desenvolvimento de cálculos numéricos, simulações e análise de dados. Trabalhei com ferramentas como Python, Modern Fortran e Wolfram Mathematica para transformar dados complexos em insights claros.
 
-Atualmente, busco oportunidades como Analista de Dados, Cientista de Dados ou Analista Quantitativo, onde posso aplicar minhas habilidades em modelagem, análise estatística e desenvolvimento computacional para gerar impacto real nos negócios e projetos.
+Atualmente, busco oportunidades como Cientista de Dados, Engenheiro de dados ou Analista onde posso aplicar minhas habilidades em modelagem, análise estatística e desenvolvimento computacional para gerar impacto real nos negócios e projetos.
 
 <p>
   <a href="https://www.linkedin.com/in/leonardo-stabile-24b4b7335" target="_blank">
