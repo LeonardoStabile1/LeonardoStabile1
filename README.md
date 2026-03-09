@@ -68,9 +68,6 @@ style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg"
 /> **`Modern Fortran`**
 
-        </td>
-      </tr>
-    </table>
   </div>
 </div>
 
