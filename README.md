@@ -1,10 +1,9 @@
 # Leonardo Pereira Stabile
+Atuo na área de **dados e computação científica**, com forte experiência em **análise de dados, modelagem estatística e desenvolvimento de soluções computacionais**. Trabalho com ferramentas de programação e análise para transformar dados complexos em **insights claros e aplicáveis para tomada de decisão**.
 
-Sou físico formado pela **UNICAMP**, com sólida base em **matemática aplicada, estatística e computação científica**. Possuo experiência no desenvolvimento de **modelos numéricos, simulações e análise de dados**, utilizando ferramentas computacionais para transformar dados complexos em informações úteis para tomada de decisão.
+Tenho experiência no uso de **Python, SQL e ferramentas do ecossistema de dados**, incluindo **Pandas, NumPy, PySpark, Scikit-Learn e Statsmodels**, além de bibliotecas de visualização como **Matplotlib e Seaborn**. Também possuo experiência com **Modern Fortran e Wolfram Mathematica** em contextos de modelagem e computação numérica.
 
-Tenho experiência com **Python, Modern Fortran e Wolfram Mathematica**, aplicados em análise quantitativa, modelagem estatística e processamento de dados.
-
-Atualmente busco oportunidades como **Cientista de Dados, Engenheiro de Dados ou Analista de Dados**, onde eu possa aplicar **modelagem estatística, análise de dados e desenvolvimento computacional** para gerar impacto real em projetos e negócios.
+Busco oportunidades como **Cientista de Dados, Engenheiro de Dados ou Analista de Dados**, onde eu possa aplicar **análise estatística, modelagem de dados e desenvolvimento de pipelines e soluções analíticas** para gerar valor em projetos e negócios orientados por dados.
 
 <div align="center">
 
