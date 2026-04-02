@@ -1,10 +1,8 @@
 # Leonardo Pereira Stabile
-Atuo na área de dados e computação científica, com forte experiência em análise de dados, modelagem estatística e desenvolvimento de soluções computacionais. Trabalho com ferramentas de programação e análise para transformar dados complexos em insights claros e aplicáveis para tomada de decisão.
 
-Tenho experiência no uso de Python, SQL e ferramentas do ecossistema de dados, incluindo Pandas, NumPy, Scikit-Learn e Statsmodels, além de bibliotecas de visualização como Matplotlib e Seaborn. Também possuo experiência com Modern Fortran e Wolfram Mathematica em contextos de modelagem e computação numérica.
+## Data Scientist | MLOps | Data Engineer
 
-Busco oportunidades como Cientista de Dados, Engenheiro de Dados ou Analista de Dados, onde eu possa aplicar análise estatística, modelagem de dados e desenvolvimento de pipelines e soluções analíticas para gerar valor em projetos e negócios orientados por dados.
-
+Atuo em dados e computação científica, com foco em modelagem estatística e desenvolvimento de soluções. Transformo dados complexos em insights acionáveis para tomada de decisão.
 <div align="center">
 
 <a href="https://leonardostabile1.github.io/myPortifolio/">
