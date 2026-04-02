@@ -2,18 +2,19 @@
 
 ## Data Scientist | MLOps | Data Engineer
 
-Atuo em dados e computação científica, com foco em modelagem estatística e desenvolvimento de soluções. Transformo dados complexos em insights acionáveis para tomada de decisão.
+I work in data science and scientific computing, with a focus on statistical modeling and solution development. I transform complex data into actionable insights for decision-making.
+
 <div align="center">
 
 <a href="https://leonardostabile1.github.io/myPortifolio/">
 
-<img src="https://img.shields.io/badge/Portfolio-CLIQUE%20PARA%20VER%20PORTIFOLIO-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-CLICK%20TO%20VIEW%20PORTFOLIO-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
 </div>
 
-### Contato
+### Contact
 <p>
 <a href="https://www.linkedin.com/in/leonardo-stabile-24b4b7335" target="_blank">
 <img 
