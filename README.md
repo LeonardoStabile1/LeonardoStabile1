@@ -1,6 +1,6 @@
 # Leonardo Pereira Stabile
 
-## Data Scientist | MLOps | Data Engineer
+## Data Scientist | Data Engineer
 
 I work in data science and scientific computing, with a focus on statistical modeling and solution development. I transform complex data into actionable insights for decision-making.
 
