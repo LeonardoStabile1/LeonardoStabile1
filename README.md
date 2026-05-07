@@ -23,6 +23,15 @@ width="35"/>
 </a>
 </p>
 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://streak-stats.demolab.com?user=LeonardoStabile1&theme=dark" 
+      alt="GitHub Streak" 
+    />
+  </a>
+</div>
+
 # Tech Stack
 
 ### Languages
