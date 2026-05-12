@@ -1,6 +1,8 @@
-I work in data science, IA and scientific computing, with a focus on statistical modeling. I transform complex data into actionable insights for decision-making.
+# Hello!
 
-As part of my background, I worked as an M.Sc. researcher at the University of Campinas (Brazil) on high-performance computing projects, using Fortran and Python to simulate and analyze physical systems on clusters, where I improved algorithm performance by up to 15x through parallelization.
+I work in data science, AI and scientific computing, with a focus on statistical modeling.
+
+As part of my background, I worked as an M.Sc. researcher at the University of Campinas (Brazil) on high-performance computing projects, using Fortran and Python to simulate and analyze physical systems on clusters.
 
 
 <div align="center">
